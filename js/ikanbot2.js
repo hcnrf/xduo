@@ -103,7 +103,7 @@ var rule = {
     console.log(JSON.stringify(data));
     `,
     headers:{'User-Agent':'PC_UA',},
-    class_name:'电影&剧集',
+    class_name:'电影&电视剧',
     class_url:'movie&tv',
 	play_parse:true,
 	double:true,
